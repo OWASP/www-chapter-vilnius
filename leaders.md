@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Dominykas Seikis](mailto:dominykas.seikis@owasp.org)
+* [Miroslav Lucinskij](mailto:miroslav.lucinskij@owasp.org)
