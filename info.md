@@ -1,4 +1,4 @@
-### Vilnins Information
+### Vilnius Information
 * Provide Group Information
 
 ### Social Links
