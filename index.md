@@ -11,7 +11,7 @@ level: 0
 
 ## Welcome to the OWASP Vilnius Chapter Homepage
 
-Follow us on [Facebook.](https://www.facebook.com/OWASPLithuania/)
+Follow us on [Facebook](https://www.facebook.com/OWASPLithuania/)
 
 Lithuania has an evolved software development community and one of the
 most important aspects that we aim to achieve is to continuously improve
@@ -19,7 +19,7 @@ the application security world.
 
 Everyone is welcome to join our chapter meetings, members and
 non-members. OWASP Lithuania Chapter meetings / events are free and
-open, so please join us\!
+open, so please join us !
 
 The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) and [Miroslav Lučinskij](mailto:miroslav.lucinskij@owasp.org)
 
