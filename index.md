@@ -11,8 +11,6 @@ level: 0
 
 ## Welcome to the OWASP Vilnius Chapter Homepage
 
-Follow us on [Facebook](https://www.facebook.com/OWASPLithuania/)
-
 Lithuania has an evolved software development community and one of the
 most important aspects that we aim to achieve is to continuously improve
 the application security world.
