@@ -1,9 +1,11 @@
 ---
+
 title: Past events
 layout:  null
 tab: true
 order: 2
 tags: Vilnius
+
 ---
 
 ## Past Events
@@ -297,6 +299,3 @@ perspektyvos.
 Lithuania
 
 Everyone is welcome to join us at our chapter meetings.
-
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
