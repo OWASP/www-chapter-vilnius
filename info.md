@@ -8,7 +8,6 @@
 ### Social Links
 * [OWASP Vilnius on Facebook](https://www.facebook.com/OWASPLithuania)
 * [OWASP Vilnius on Twitter](https://twitter.com/OwaspV)
-* [Meetup]()
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-vilnius)
