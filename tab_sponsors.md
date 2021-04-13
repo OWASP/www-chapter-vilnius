@@ -3,7 +3,7 @@ title: sponsors
 displaytext: Chapter sponsors
 layout: null
 tab: true
-order: 3
+order: 2
 tags: Vilnius
 ---
 
