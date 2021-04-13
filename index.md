@@ -1,12 +1,11 @@
 ---
-
 layout: col-sidebar
 title: OWASP Vilnius
 tags: Vilnius
 region: Europe
 country: Lithuania
 postal-code: LT-09307
-
+level: 0  
 ---
 
 
