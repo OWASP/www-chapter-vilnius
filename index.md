@@ -1,4 +1,4 @@
----  
+---
 layout: col-sidebar
 title: OWASP Vilnius
 tags: Vilnius
@@ -6,8 +6,7 @@ region: Europe
 country: Lithuania
 postal-code: LT-09307
 level: 0  
----  
-
+---
 
 ## Welcome to the OWASP Vilnius Chapter Homepage
 
