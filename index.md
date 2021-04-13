@@ -2,8 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Vilnius
-tags: example-tag
+tags: Vilnius
 region: Europe
+country: Lithuania
 
 ---
 
