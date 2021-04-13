@@ -8,10 +8,7 @@ region: Europe
 ---
 
 
-## Welcome
-
-### Welcome to the OWASP Vilnius Chapter Homepage
-
+## Welcome to the OWASP Vilnius Chapter Homepage
 
 Follow us on [Facebook.](https://www.facebook.com/OWASPLithuania/)
 
@@ -25,11 +22,17 @@ open, so please join us\!
 
 The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) and [Miroslav Lučinskij](mailto:miroslav.lucinskij@owasp.org)
 
-### Call For Speakers
+## Call For Speakers
 
 Call For Speakers is open. If you want to present a talk at one of our meetings / events please review and agree with the
 [OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.  
 
+## Become a Sponsor
+
+To sponsor an OWASP Vilnius event, contact [Dominykas Seikis](mailto:dominykas.seikis@owasp.org).
+
+We don't have any special sponsorship package, however the sponsoring organization or individual will receive our warm thanks and a fair
+amount of gratitude spread over our social media presence, placed at the chapter official web-page, and announced at the event itself.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
