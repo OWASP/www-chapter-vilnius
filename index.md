@@ -15,7 +15,7 @@ most important aspects that we aim to achieve - continuously improve
 the application security world.
 
 Everyone is welcome to join our chapter meetings, members and
-non-members. OWASP Lithuania Chapter meetings / events are free and
+non-members. OWASP chapter meetings / events are free and
 open, so please join us !
 
 The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) and [Miroslav Lučinskij](mailto:miroslav.lucinskij@owasp.org)
@@ -23,7 +23,7 @@ The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) an
 ## Call For Speakers
 
 Call For Speakers is open. If you want to present a talk at one of our meetings / events please review and agree with the
-[OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.  
+[OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.  
 
 ## Become a Sponsor
 
