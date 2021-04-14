@@ -11,7 +11,7 @@ tags: Vilnius
 
 ## Past Events
 
-#### **OWASP Lithuania meeting 13**
+#### **OWASP Lithuania meeting \#13**
 
 **Speakers**:
 
@@ -27,7 +27,7 @@ tags: Vilnius
 **Register**:
 <https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-13-tickets-146340106197>
 
-#### **OWASP Lithuania meeting 12**
+#### **OWASP Lithuania meeting \#12**
 
 **Speakers**:
 
@@ -43,7 +43,7 @@ tags: Vilnius
 **Register**:
 <https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-12-tickets-109969381380>
 
-#### **OWASP Lithuania meeting 11**
+#### **OWASP Lithuania meeting \#11**
 
 **Speakers**:
 
@@ -59,7 +59,7 @@ tags: Vilnius
 **Register**:
 <https://www.eventbrite.com/e/owasp-lithuania-chapter-meeting-11-tickets-78435289061>
 
-#### **OWASP Lithuania meeting 10**
+#### **OWASP Lithuania meeting \#10**
 
 **Speakers**:
 
@@ -78,7 +78,7 @@ tags: Vilnius
 
 -----
 
-#### **OWASP Lithuania meeting 9**
+#### **OWASP Lithuania meeting \#9**
 
 **Speakers**:
 
@@ -97,7 +97,7 @@ tags: Vilnius
 
 -----
 
-**OWASP Lithuania meeting 8**
+**OWASP Lithuania meeting \#8**
 
 **Speakers**:
 
@@ -138,7 +138,7 @@ tags: Vilnius
 
 -----
 
-#### OWASP Lithuania meeting 6
+#### OWASP Lithuania meeting \#6
 
 **Speakers**:
 
@@ -156,7 +156,7 @@ tags: Vilnius
 
 -----
 
-#### OWASP Lithuania meeting 5
+#### OWASP Lithuania meeting \#5
 
 **Speakers**:
 
@@ -174,7 +174,7 @@ tags: Vilnius
 
 -----
 
-#### OWASP Lithuania meeting 4
+#### OWASP Lithuania meeting \#4
 
 **Speakers**:
 
@@ -233,20 +233,10 @@ developers
 **Register:**
 <https://www.eventbrite.com/e/owasp-lithuania-meet-3-owasp-eee-week-tickets-18766759884>
 
-Platinum sponsor of OWASP EEE:
-![<File:150px-Qualys_logo.png>](150px-Qualys_logo.png
-"File:150px-Qualys_logo.png")
-
-Local supporters of the OWASP Lithuania/ OWASP EEE:
-
-![<File:Visma_logo_larger.png>](Visma_logo_larger.png
-"File:Visma_logo_larger.png")
-
-![<File:Sophos.png>](Sophos.png "File:Sophos.png")
 
 -----
 
-#### OWASP Lithuania meeting 2
+#### OWASP Lithuania meeting \#2
 
 **Speakers:**
 
@@ -280,7 +270,7 @@ perspektyvos.
 
 -----
 
-#### OWASP Lithuania meeting 1
+#### OWASP Lithuania meeting \#1
 
 **Speakers:**
 
