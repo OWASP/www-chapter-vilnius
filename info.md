@@ -4,7 +4,7 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-vilnius/)
-[comment]: <> * [OWASP Vilnius on Facebook](https://www.facebook.com/OWASPLithuania)
+<!---* [OWASP Vilnius on Facebook](https://www.facebook.com/OWASPLithuania)-->
 * [OWASP Vilnius on Twitter](https://twitter.com/OwaspV)
 
 ### Code Repository
