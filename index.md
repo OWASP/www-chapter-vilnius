@@ -32,5 +32,5 @@ To sponsor an OWASP Vilnius event, contact [Dominykas Seikis](mailto:dominykas.s
 We don't have any special sponsorship package, however the sponsoring organization or individual will receive our warm thanks and a fair
 amount of gratitude spread over our social media presence, placed at the chapter official web-page, and announced at the event itself.
 
-### Check our Upcoming Meetup Events:
+### Check OWASP Vilnius Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
