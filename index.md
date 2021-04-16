@@ -31,3 +31,30 @@ To sponsor an OWASP Vilnius event, contact [Dominykas Seikis](mailto:dominykas.s
 
 We don't have any special sponsorship package, however the sponsoring organization or individual will receive our warm thanks and a fair
 amount of gratitude spread over our social media presence, placed at the chapter official web-page, and announced at the event itself.
+
+### Check our Upcoming Meetup Events:
+{% include chapter_events.html group=page.meetup-group %}
+
+
+<script type='text/javascript'>
+  $(function(){
+    $(".timeclass").hover(function() {
+      utc_str = $(this).text();
+      ndx = utc_str.indexOf(':');
+      st_hour_str = utc_str.substring(0, ndx);
+      st_min_str = utc_str.substring(ndx + 1, ndx + 3);
+      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0);
+      start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
+
+      ndx = utc_str.lastIndexOf(':');
+      end_hour_str = utc_str.substring(ndx - 2, ndx - 1);
+      end_min_str = utc_str.substring(ndx + 1, ndx + 3);
+      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0);
+      end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
+      popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
+      $(this).prop('title', popstr);
+    });
+  });
+
+  
+</script>
