@@ -34,5 +34,5 @@ amount of gratitude spread over our social media presence, placed at the chapter
 
 ### Events
 
-Check OWASP Vilnius meetup page for upcoming meetup events. 
+Check OWASP Vilnius [meetup](https://www.meetup.com/owasp-vilnius/) page for upcoming meetup events. 
 
