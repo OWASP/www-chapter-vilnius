@@ -1,6 +1,6 @@
 ---
-title: sponsors
-displaytext: Chapter sponsors
+title: supporters
+displaytext: Chapter supporters
 layout: null
 tab: true
 order: 2
