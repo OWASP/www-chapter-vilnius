@@ -25,7 +25,7 @@ The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) an
 Call For Speakers is open. If you want to present a talk at one of our meetings / events please review and agree with the
 [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the [Chapter Leaders](leaders.md) via e-mail.  
 
-### Become a Sponsor
+### Become a Supporter
 
 To sponsor an OWASP Vilnius event, contact [Dominykas Seikis](mailto:dominykas.seikis@owasp.org).
 
