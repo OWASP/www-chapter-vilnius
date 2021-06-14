@@ -4,7 +4,7 @@ title: OWASP Vilnius
 tags: Vilnius
 region: Europe
 country: Lithuania
-meetup group: owasp-vilnius
+meetup-group: owasp-vilnius
 postal-code: LT-09307
 level: 0  
 
