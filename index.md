@@ -22,7 +22,7 @@ Everyone is welcome to join our chapter meetings, members and
 non-members. OWASP chapter meetings / events are free and
 open, so please join us !
 
-The chapter leader are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) and [Miroslav Lučinskij](mailto:miroslav.lucinskij@owasp.org)
+The chapter leaders are [Dominykas Šeikis](mailto:dominykas.seikis@owasp.org) and [Miroslav Lučinskij](mailto:miroslav.lucinskij@owasp.org)
 
 ### Call For Speakers
 
