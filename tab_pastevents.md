@@ -11,6 +11,22 @@ tags: Vilnius
 
 ## Past Events
 
+#### **OWASP Vilnius meeting \#1**
+
+**Speakers**:
+
+  - Kęstutis Meškonis @ Blue Bridge - "10 password change/reset attacks"
+  - Haci Dasgin @ Nasdaq - "Malware analysis 101"
+
+**Date:** 15 Juy 2021
+
+**Time:** 18:00 - 20:00
+
+**Location:** ONLINE EVENT
+
+**Register**:
+<https://www.meetup.com/owasp-vilnius/events/278972049/>. 
+
 #### **OWASP Lithuania meeting \#13**
 
 **Speakers**:
