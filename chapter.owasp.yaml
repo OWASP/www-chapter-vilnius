@@ -1,0 +1,29 @@
+community:
+  - name: chapter-vilnius
+    platform: slack
+    url: https://owasp.slack.com/archives/C01T18H9YSG
+    description: owasp vilnius community chapter
+leaders:
+  - name: Dominykas Seikis
+    email: dominykas.seikis@owasp.org
+  - name: Miroslav Lucinskij
+    email: miroslav.lucinskij@owasp.org
+location:
+  country: Lithuania
+  country_code: LT
+  region: Naujamiestis
+  city: Vilnius
+  postal_code: LT-09307
+  latitude: 54.6698883
+  longitude: 25.2847418
+meetup_group: owasp-vilnius
+name: OWASP Vilnius
+repositories:
+  - name: www-chapter-vilnius
+    url: https://github.com/OWASP/www-chapter-vilnius
+    description: OWASP Foundation Web Repository
+tags:
+  - Vilnius
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-vilnius
